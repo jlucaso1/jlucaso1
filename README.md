@@ -5,7 +5,7 @@
 #### Me chamo João Lucas de Oliveira Lopes.
 
 - 🏢 Estudo Análise e Desenvolvimento de Sistemas no *Instituto Federal do Tocantins*.
-- ⚙️ Programo em: Javascript, Python e aprendendo C#.
+- ⚙️ Programo em: Javascript, Python, C# e aprendendo Flutter.
 - 🌍 Sou muito ativo na comunidade de VUEJS.
 - 🌱 Aprendendo tudo para ser um bom profissional.
 - ⚡️ Fun fact: Sou um grande fã de animes.
