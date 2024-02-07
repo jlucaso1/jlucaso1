@@ -1,11 +1,11 @@
-### Sejam bem vindos 👋
+### Welcome 👋
 
 ![](https://komarev.com/ghpvc/?username=jlucaso1)
 
-#### Me chamo João Lucas.
+#### My name is João Lucas.
 
-- 🏢 Estudo Análise e Desenvolvimento de Sistemas no *Instituto Federal do Tocantins*.
-- ⚙️ Programo em: TypeScript, C# e Dart.
-- ⚡ Frameworks: NestJS, NextJS, ReactJS, VueJS, Unity e Flutter.
-- 📊 Bancos de dados: MySQL, MongoDB, Firestore(Firebase) e PostgreSQL.
-- 🌱 Aprendendo boas práticas para criar softwares perfomáticos e seguros.
+- 🏢 I hold a degree in Analysis and Systems Development.
+- ⚙️ I develop in: TypeScript, C#, and Dart.
+- ⚡ Frameworks I use: NestJS, NextJS, ReactJS, Flutter.
+- 💬 🇧🇷 🇺🇸 🇪🇸
+- 🌱 Learning best practices to create performant and secure software.
